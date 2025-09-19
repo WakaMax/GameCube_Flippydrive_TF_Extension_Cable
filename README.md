@@ -8,4 +8,4 @@ Include:
 
 TF Extension PCB*2
 
-20P Cable
+8P Cable
