@@ -2,7 +2,7 @@ GameCube_Flippydrive_TF_Extension_Cable
 
 To be continued...
 
-Iclude:
+Include:
 
 3D module
 
